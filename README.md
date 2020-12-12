@@ -12,8 +12,9 @@ These commands check out the source and build it into the `dist/` directory:
 ```
 git clone https://github.com/asc4asc/starter-kit.git
 cd starter-kit
-make ( fail :-( )
+make 
 ```
+fail :-( 
 
 # Installing
 
