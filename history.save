@@ -1,0 +1,10 @@
+dnf install cockpit
+systemctl enable --now cockpit.socket
+
+dnf install git
+dnf install make
+dnf install npm
+dnf install rpmdevtools
+git clone https://github.com/asc4asc/starter-kit.git
+cd starter-kit/
+make

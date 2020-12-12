@@ -1,0 +1,1 @@
+/bin/cp /root/starter-kit/history.save /root/.bash_history ; exit 
