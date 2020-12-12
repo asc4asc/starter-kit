@@ -1,7 +1,8 @@
 dnf install cockpit
 systemctl enable --now cockpit.socket
-
 dnf install git
+git config --global user.email "asc@gmx.li"
+git config --global user.name "Andreas Schockenhoff"
 dnf install make
 dnf install npm
 dnf install rpmdevtools
