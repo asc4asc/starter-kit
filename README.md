@@ -1,5 +1,7 @@
 # Cockpit Starter Kit
 
+try the original! -> https://github.com/cockpit-project/starter-kit
+
 Scaffolding for a [Cockpit](http://www.cockpit-project.org) module.
 
 # Getting and building the source
@@ -10,7 +12,7 @@ These commands check out the source and build it into the `dist/` directory:
 ```
 git clone https://github.com/asc4asc/starter-kit.git
 cd starter-kit
-make
+make ( fail :-( )
 ```
 
 # Installing
