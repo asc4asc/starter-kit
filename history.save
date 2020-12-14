@@ -6,6 +6,7 @@ git config --global user.name "Name"
 dnf install make
 dnf install npm
 dnf install rpmdevtools
+dnf install sassc
 git clone https://github.com/asc4asc/starter-kit.git
 cd starter-kit/
 make
