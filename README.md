@@ -9,12 +9,15 @@ Scaffolding for a [Cockpit](http://www.cockpit-project.org) module.
 Make sure you have `npm` available (usually from your distribution package).
 These commands check out the source and build it into the `dist/` directory:
 
+Please install this packages with dnf/apt:
+```
+git make npm rpmdevtools sassc
+```
 ```
 git clone https://github.com/asc4asc/starter-kit.git
 cd starter-kit
 make 
 ```
-fail :-( 
 
 # Installing
 
