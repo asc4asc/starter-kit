@@ -13,6 +13,7 @@ Please install this packages with dnf/apt:
 ```
 git make npm rpmdevtools sassc
 ```
+Then:
 ```
 git clone https://github.com/asc4asc/starter-kit.git
 cd starter-kit
